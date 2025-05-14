@@ -4,7 +4,7 @@ This repository contains a collection of foundational C++ projects developed by 
 
 ---
 
-## 📁 Projects Overview
+##  Projects Overview
 
 ### `array_class/`
 Implements a custom fixed-size array class with basic operations such as insert, remove, and print. Useful for demonstrating memory layout, bounds handling, and loop-based logic.
@@ -26,7 +26,7 @@ Solves the classic "100 locker doors" logic puzzle using loops and toggling logi
 
 ---
 
-## 🛠 Usage
+## Usage
 
 Each folder is self-contained. To compile any project:
 
