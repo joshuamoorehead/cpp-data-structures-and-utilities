@@ -1,4 +1,4 @@
-// Copyright Joshua Moorehead CSCE350 FA23
+// Copyright Joshua Moorehead 2023
 #include <iostream>
 
 int main() {
