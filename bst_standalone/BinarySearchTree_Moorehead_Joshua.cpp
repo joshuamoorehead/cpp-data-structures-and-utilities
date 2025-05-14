@@ -1,4 +1,4 @@
-// Copyright Joshua Moorehead CSCE350 FA23 HW4
+// Copyright Joshua Moorehead2023
 #include <iostream>
 
 class Node {
